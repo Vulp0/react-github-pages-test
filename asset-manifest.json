@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vulp0/react-github-pages-test/static/css/main.b6c863ca.css",
-    "main.js": "/Vulp0/react-github-pages-test/static/js/main.49b57fbd.js",
-    "static/js/787.a0b4d91d.chunk.js": "/Vulp0/react-github-pages-test/static/js/787.a0b4d91d.chunk.js",
-    "index.html": "/Vulp0/react-github-pages-test/index.html",
-    "main.b6c863ca.css.map": "/Vulp0/react-github-pages-test/static/css/main.b6c863ca.css.map",
-    "main.49b57fbd.js.map": "/Vulp0/react-github-pages-test/static/js/main.49b57fbd.js.map",
-    "787.a0b4d91d.chunk.js.map": "/Vulp0/react-github-pages-test/static/js/787.a0b4d91d.chunk.js.map"
+    "main.css": "/react-github-pages-test/static/css/main.b6c863ca.css",
+    "main.js": "/react-github-pages-test/static/js/main.b334e531.js",
+    "static/js/787.a0b4d91d.chunk.js": "/react-github-pages-test/static/js/787.a0b4d91d.chunk.js",
+    "index.html": "/react-github-pages-test/index.html",
+    "main.b6c863ca.css.map": "/react-github-pages-test/static/css/main.b6c863ca.css.map",
+    "main.b334e531.js.map": "/react-github-pages-test/static/js/main.b334e531.js.map",
+    "787.a0b4d91d.chunk.js.map": "/react-github-pages-test/static/js/787.a0b4d91d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6c863ca.css",
-    "static/js/main.49b57fbd.js"
+    "static/js/main.b334e531.js"
   ]
 }
